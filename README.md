@@ -15,5 +15,9 @@ heavily in technology and processes to identify offensive language in order to p
 The datset is in the data directory.
 The ML and deep learning models are trained on google colab.
 
+Copy the repo
+-- git pull https://github.com/nk3843/Thesis.git
+
+open the files in google colab/ jupyter notebook
 
 
