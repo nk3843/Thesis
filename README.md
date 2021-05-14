@@ -16,7 +16,7 @@ The datset is in the data directory.
 The ML and deep learning models are trained on google colab.
 
 Copy the repo
--- git pull https://github.com/nk3843/Thesis.git
+-- git clone https://github.com/nk3843/Thesis.git
 
 open the files in google colab/ jupyter notebook
 
